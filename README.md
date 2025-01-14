@@ -21,7 +21,9 @@ Proven ability to communicate findings effectively to diverse stakeholders, fost
 
 - This project shows the KPI visualisation of a mega store using only excel and pivot to create an interactive dashboard.
 
-## PREDICTION OF 
+## PREDICTION OF ONSET OF AUTISM IN KIDS USING FACE SECTIONS
+
+-Utilised the use of advance visual Computing in conjunction with Python Programming Language. Using models such as MediaPipe, DenseNet-121, ResNet-50, ResNet-101, Xception and Inception. Successfully dissect faces into segments and determine the possibility of predicting Autism using Machine Learning models like Support Vector Machine, Random Forest, Naïve Bayes and Decision Tree. Successfully establish the possibility of predicting onset of Autism in Children using Face segments up to 80% accuracy.
    
 
 
