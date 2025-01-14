@@ -16,9 +16,9 @@ Proven ability to communicate findings effectively to diverse stakeholders, fost
 
 # PROJECTS
 
-## INTERACTIVE DASHBOARD USING EXCEL
-- [INTERACTIVE DASHBOARD USING EXCEL] (https://1drv.ms/x/c/7f58d5b925adeec9/Ee_DzebyHm5KoEGPE5u34m8BXfR5Gccaqq0cD-l1d_yUyg)
-  This project shows the KPI visualisation of a mega store using only excel and pivot to create an interactive dashboard.
+## INTERACTIVE DASHBOARD USING EXCEL (https://1drv.ms/x/c/7f58d5b925adeec9/Ee_DzebyHm5KoEGPE5u34m8BXfR5Gccaqq0cD-l1d_yUyg)
+
+This project shows the KPI visualisation of a mega store using only excel and pivot to create an interactive dashboard.
    
 
 
